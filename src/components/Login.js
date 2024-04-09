@@ -16,7 +16,7 @@ const Login = ()=>{
 
       
            
-            {/* <Link to="/accountSettings"><button style={{display:"block",margin:"auto"}}>Login</button></Link> */}
+            <Link to="/accountSettings"><button style={{display:"block",margin:"auto"}}>Login</button></Link>
             </div>
         </div>
     )
